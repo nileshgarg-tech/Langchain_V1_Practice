@@ -1,1 +1,12 @@
+# virtual environment
+.venv/
+venv/
+
+# compiled bytecode
+__pycache__/
+
+# environment secrets
 .env
+
+# VS Code configs (optional)
+.vscode/
